@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://evanstewy.github.io/testwebsite/sitemap.xml

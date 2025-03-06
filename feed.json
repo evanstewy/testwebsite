@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test Website",
+    "description": "",
+    "home_page_url": "https://evanstewy.github.io/testwebsite",
+    "feed_url": "https://evanstewy.github.io/testwebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Evan"
+    },
+    "items": [
+    ]
+}
